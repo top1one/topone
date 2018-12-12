@@ -1,1 +1,1 @@
-window.location.href="http://topplayer.games/?channel=android";
+window.location.href="http://topplayer.games/?channel=ios";
